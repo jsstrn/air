@@ -1,0 +1,23 @@
+{
+  "name": "@jsstrn/air",
+  "version": "1.0.0",
+  "description": "😷 A simple CLI tool to check the day's air quality index",
+  "bin": {
+    "air": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsstrn/air"
+  },
+  "keywords": [
+    "cli",
+    "air quality",
+    "air quality index",
+    "aqi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
