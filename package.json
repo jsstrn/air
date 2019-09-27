@@ -18,6 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.4.2",
     "node-fetch": "^2.6.0"
   }
 }
